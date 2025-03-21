@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import Window
 
 if __name__ == "__main__":
