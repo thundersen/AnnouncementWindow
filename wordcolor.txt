@@ -1,4 +1,3 @@
-
 #####################################################################
 # This is the colors configuration file         		    #
 # To add your own colors you need to create a line :		    #
@@ -18,12 +17,12 @@
 # 								    #
 # For general highlighting you must use the [General] group	    #
 #####################################################################
-
-
+﻿
+﻿
 ###########
 # General #
 ###########
-
+﻿
 #Job
 [General][silver] "Miner"
 [General][yellow] "Woodworker,Carpenter,Bowyer,Woodcutter"
@@ -37,50 +36,51 @@
 [General][red] "Engineer,Mechanic,Siege Engineer,Siege Operator,Pump Operator"
 [General][purple] "Clerk,Administrator,Trader,Architect,Alchemist,Bone Doctor,Diagnoser,Doctor,Suturer,Surgeon,broker"
 [General][gray] "Merchant"
-[General][purple] "Hammerman"
-[General][fuchsia] "Hammer Lord"
-[General][olive] "Spearman"
+[General][purple] "Hammerman,hammerman,hammerdwarf,Hammerdwarf"
+[General][fuchsia] "Hammer Lord,Forgotten Beast,forgotten beast"
+[General][olive] "Spearman,spearman,speardwarf,Speardwarf"
 [General][yellow] "Spearmaster"
-[General][green] "Crossbowman"
+[General][green] "Crossbowman,Marksdwarf,marksdwarf"
 [General][lime] "Elite Crossbowman"
-[General][silver] "Wrestler,Miner"
-[General][white] "Elite Wrestler"
-[General][navy] "Axeman"
+[General][silver] "Wrestler, wrestler"
+[General][white] "Elite Wrestler,human,Human"
+[General][navy] "Axeman,axeman,Axedwarf,axedwarf"
 [General][blue] "Axe Lord"
-[General][teal] "Swordsman"
-[General][aqua] "Swordmaster"
-[General][maroon] "Maceman"
+[General][teal] "Swordsman,swordsman,swordsdwarf,Swordsdwarf"
+[General][aqua] "Swordmaster,elf,Elf"
+[General][maroon] "Maceman,maceman,macedwarf,Macedwarf"
 [General][red] "Mace Lord"
-[General][olive] "Pikeman"
+[General][olive] "Pikeman,pikeman,pikedwarf,Pikedwarf,goblin,Goblin"
 [General][yellow] "Pikemaster"
-[General][green] "Bowman"
-[General][lime] "Elite Bowman"
-[General][gray] "Blowgunner,Master Blowgunner,Lasher,Master Lasher,Recruit"
+[General][green] "Bowman,bowman,Bowdwarf,bowdwarf"
+[General][lime] "Elite Bowman,Elite Bowdwarf"
+[General][gray] "Blowgunner,Master Blowgunner,Lasher,Master Lasher,Recruit,blowgunner,lasher,recruit"
 [General][silver] "Hunting Animal"
-[General][gray] "War Animal,Master Thief,Thief"
-[General][teal] "Peasant"
-[General][maroon] "Dwarven Child,Child,Baby"
-[General][olive] "Drunk,Monster Slayer,Scout,Beast Hunter,Snatcher,Mercenary,Gelder,Performer"
-[General][purple] "Poet,Bard,Dancer,Sage,Scholar,Philosopher,Mathematician,Historian,Astronomer,Naturalist,Chemist,Geographer,Scribe"
-[General][blue] "Papermaker,Bookbinder"
-[General][purple] "Tavern Keeper"
-[General][gray] "Criminal"
-[General][silver] "Peddler"
-[General][white] "Prophet,Pilgrim,Monk"
-[General][purple] "Messenger"
-
+[General][gray] "War Animal,Master Thief,Thief,thief"
+[General][teal] "Peasant,peasant"
+[General][maroon] "Dwarven Child,Child,Baby,kobold,Kobold,dwarven child,child,baby"
+[General][olive] "Drunk,Monster Slayer,Scout,Beast Hunter,Snatcher,Mercenary,Gelder,Performer,drunk,monster slayer,scout,beast hunter,snatcher,mercenary,gelder,performer"
+[General][purple] "Poet,Bard,Dancer,Sage,Scholar,Philosopher,Mathematician,Historian,Astronomer,Naturalist,Chemist,Geographer,Scribe,poet,bard,dancer,sage,scholar,philosopher,mathematician,historian,astronomer,naturalist,chemist,geographer,scribe"
+[General][blue] "Papermaker,Bookbinder,papermaker,bookbinder"
+[General][purple] "Tavern Keeper,tavern keeper"
+[General][gray] "Criminal,criminal"
+[General][silver] "Peddler,peddler"
+[General][white] "Prophet,Pilgrim,Monk,prophet,pilgrim,monk"
+[General][purple] "Messenger,messenger"
+﻿
 #Noble
-[General][yellow] "queen,king,mayor,baronness,baron,chief medical dwarf,outpost liaison,manager,captain of the guard,militia captain"
-
+[General][yellow] "duchess consort,lady consort,queen,king,mayor,baroness,baron,count,countess,chief medical dwarf,outpost liaison,manager,captain of the guard,militia captain,militia commander"
+﻿
 ###########
 # Emotion #
 ###########
 [emotion][aqua] "enraptured,pleasure,very pleased,How pleasurable,pleases me,admirable,admiration,very fond,fondness,sympathy,sympathetic,affection,adoration,love,tenderness,passionate,aroused,caring,care so much,really care,proud,gratitude,very grateful,repentant,empathy,wonder,wondrous,spiritually moved"
-[emotion][green] "feel so good,excited,exciting,euphoric,joyable,joyous,enjoyment,enjoyed,happy,gaiety,amused,amusing,blissful,could be bliss,jovial,delighted,some delight,delightful,content,contented,satisfied,satisfying,elated,relieved,free,expectant,triumph,hope,optimistic,pretty good,feeling great"
+[emotion][green] "feel so good,really exciting,exciting,euphoric,joyous,enjoyment,enjoyed,happy,gaiety,amused,amusing,blissful,could be bliss,jovial,delighted,some delight,delightful,content,contented,satisfied,satisfying,elated,relieved,free,expectant,triumph,hope,optimistic,pretty good,feeling great"
 [emotion][navy] "exhilarated,exhilarating,interested,amazing,interesting,astonished,awe,eager"
 [emotion][gray] "accepting,ambivalent,no pleasure,not filled with delight,do not see the bliss in this,not enjoying,not uneasy,not resent,doesn't excite me,accept this,not much to admire here"
 [emotion][purple] "suspicious"
 [emotion][olive] "annoyed,grouchy,exasperated,exasperating,irritated,irritating,dislike,bitter,resentful,resent,contemptuous,contempt,lonely,very uneasy,uneasy,worrisome,worried,restless,guilty,regretful,self-pity,frustrated,frustrating,bored,boring,embarrassed,embarrassing,disillutioned,dejected,very grouchy,very dejected,glum,indignant,insulted,offense,confused,agitated"
 [emotion][yellow] "shaken,no hope,hopeless,empty,disgusted,disgusting,mortified,distressed,humiliated,ashamed,shame,frightened,frightening,sad,sadness,grieved,anguish,shocked,panicked"
 [emotion][red] "angry,afraid,terrified,horrified,truly horrifying,vengeful,ferocity,outraged,outrage,loathing"
+﻿
 
